@@ -8,9 +8,9 @@
 
 ### 33. Write a Python function that checks that a given list is sorted in ascending order, descendant order or not sorted. It should return 1 for ascending and -1 for descending and 0 for not sorted. Sample inputs: [1, 2, 3, 4, 5, 6, 7, 8] [8, 7, 6, 5, 4, 3, 2, 1] [4, 5, 6, 3, 2, 9] Outputs: 1 -1` 0
 
-### 34. **Number scrabble** is played with the list of numbers between 1 and 9. Each player takes turns picking a number from the list. Once a number has been picked, it cannot be picked again. If out of the number a player has picked so far, three numbers add up to 15, that player wins the game. However, if all the numbers are used and no player gets exactly 15, the game is a draw. Example: (1) 4 (2) 7 (1) 3 (2) 8 (1) 5 (2) 6 (1) 1 (2) 2 => 2 wins ( 7 + 6 + 2 = 15)
+### 34. ***Number scrabble*** is played with the list of numbers between 1 and 9. Each player takes turns picking a number from the list. Once a number has been picked, it cannot be picked again. If out of the number a player has picked so far, three numbers add up to 15, that player wins the game. However, if all the numbers are used and no player gets exactly 15, the game is a draw. Example: (1) 4 (2) 7 (1) 3 (2) 8 (1) 5 (2) 6 (1) 1 (2) 2 => 2 wins ( 7 + 6 + 2 = 15)
 
-### 35. **Subtract a square.** This is a two-player mathematical game of strategy. It is played by two people with a pile of coins (or other tokens) between them. The players take turns removing coins from the pile, always removing a non-zero square number of coins (1, 4, 9, 16, …). The player who removes the last coin wins. Example of this game is at: http://delphiforfun.org/Programs/SubtractingSquares.htm Hint: Modify the Nim game written in the lecture and available in course page to do this .
+### 35. ***Subtract a square.*** This is a two-player mathematical game of strategy. It is played by two people with a pile of coins (or other tokens) between them. The players take turns removing coins from the pile, always removing a non-zero square number of coins (1, 4, 9, 16, …). The player who removes the last coin wins. Example of this game is at: http://delphiforfun.org/Programs/SubtractingSquares.htm Hint: Modify the Nim game written in the lecture and available in course page to do this .
 
 ### 36. Write a Python program that takes two file names and copies the first file to the second one.
 
