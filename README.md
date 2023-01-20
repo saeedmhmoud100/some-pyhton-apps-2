@@ -19,3 +19,5 @@
 ### 38. Write a Python program that opens the file and counts the number of words, lines and characters in it.
 
 ### 39. Create a dictionary with 10 or more Egyptian cities. City name is the key, while the value to store population. Or it can be the distance from Cairo. Then the program that allows the user to choose from three functions; Listing all cities and their information, query the dictionary for a city or add a new city.
+
+### 40. Write a Python function that loads the most common English words from a file (See https://github.com/first20hours/google-10000-english/blob/master/google-10000-english.txt) into a dictionary where word is the key and value is the number of letters in the word (length). Then write another functions that allows the user to display all words of certain length, for example can display English words of three letters only, four letters only, etc.
